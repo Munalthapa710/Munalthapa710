@@ -87,20 +87,26 @@
 <h2 align="center">Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/Munalthapa710/portfolio-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Munalthapa710&repo=portfolio-website&theme=tokyonight&hide_border=true" alt="portfolio-website" />
+  <a href="https://www.munalthapa710.com.np/">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Project-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio live project" />
   </a>
-  <a href="https://github.com/Munalthapa710/AutoQA-test-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Munalthapa710&repo=AutoQA-test-&theme=tokyonight&hide_border=true" alt="AutoQA-test-" />
+  <a href="https://app.munalthapa710.com.np/">
+    <img src="https://img.shields.io/badge/Munal_App-Live_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Munal app live project" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Munalthapa710/dailytrack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Munalthapa710&repo=dailytrack&theme=tokyonight&hide_border=true" alt="dailytrack" />
+  <a href="https://store.vivaconstruction.ltd/login">
+    <img src="https://img.shields.io/badge/Viva_Store-Live_Project-16A34A?style=for-the-badge&logo=shopify&logoColor=white" alt="Viva Store live project" />
   </a>
-  <a href="https://github.com/Munalthapa710/snakeandladder-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Munalthapa710&repo=snakeandladder-&theme=tokyonight&hide_border=true" alt="snakeandladder-" />
+  <a href="https://snakeandladder.munalthapa710.com.np/">
+    <img src="https://img.shields.io/badge/Snake_And_Ladder-Live_Game-F97316?style=for-the-badge&logo=gamemaker&logoColor=white" alt="Snake and Ladder live game" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://staff-managemant.vercel.app">
+    <img src="https://img.shields.io/badge/Staff_Management-Live_Project-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Staff Management live project" />
   </a>
 </p>
 
