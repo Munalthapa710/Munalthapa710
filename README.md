@@ -114,9 +114,9 @@
 
 <h2 align="center">GitHub Stats</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Munalthapa710&show_icons=true&theme=tokyonight&hide_border=true" alt="Munal Thapa GitHub stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munalthapa710&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
