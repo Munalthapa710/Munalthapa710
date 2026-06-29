@@ -107,7 +107,7 @@
 </p>
 
 <p align="center">
-  <a href="https://staff-managemant.vercel.app">
+  <a href="https://staffly-three.vercel.app/">
     <img src="https://img.shields.io/badge/Staff_Management-Live_Project-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Staff Management live project" />
   </a>
 </p>
