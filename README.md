@@ -94,7 +94,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Live_Project-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio live project" />
   </a>
   <a href="https://app.munalthapa710.com.np/">
-    <img src="https://img.shields.io/badge/Munal_App-Live_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Munal app live project" />
+    <img src="https://img.shields.io/badge/KashTrack_App-Live_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="KashTrack" />
   </a>
 </p>
 
