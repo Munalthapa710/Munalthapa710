@@ -124,39 +124,21 @@
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Munalthapa710&bg_color=0D1117&color=58A6FF&line=00C7B7&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
-<!-- <h2 align="center">GitHub Stats</h2> -->
+ <h2 align="center">GitHub Stats</h2> 
 
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munalthapa710&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p> -->
+</p> 
 
 ---
 
-<!-- <h2 align="center">GitHub Streak</h2> -->
+ <h2 align="center">GitHub Streak</h2> -->
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munalthapa710&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p> -->
-<h2 align="center">Most Used Languages</h2>
+</p> 
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munalthapa710&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Munal Thapa's most used languages"
-  />
-</p>
-
----
-
-<h2 align="center">GitHub Streak</h2>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Munalthapa710&theme=tokyonight&hide_border=true"
-    alt="Munal Thapa's GitHub streak"
-  />
-</p>
 ---
 
 <h2 align="center">Random Dev Quote</h2>
