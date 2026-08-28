@@ -118,12 +118,12 @@
 
 
 ---
-<div align="center">
+<!-- <div align="center"> -->
 
 
 <!-- <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Munalthapa710&bg_color=0D1117&color=58A6FF&line=00C7B7&point=FFFFFF&area=true&hide_border=true"/> -->
 
-</div>
+<!-- </div> -->
  <!-- <h2 align="center">GitHub Stats</h2>  -->
 
 
