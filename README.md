@@ -124,12 +124,16 @@
 <!-- <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Munalthapa710&bg_color=0D1117&color=58A6FF&line=00C7B7&point=FFFFFF&area=true&hide_border=true"/> -->
 
 <!-- </div> -->
-<!-- <h2 align="center">GitHub Stats</h2>  
+ <h2 align="center">GitHub Stats</h2>  
 
 
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munalthapa710&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>   -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munalthapa710&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" /> -->
+   <img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=Munalthapa710&layout=compact&theme=tokyonight"
+  alt="Most used languages"
+/>
+</p>   
 
 ---
 
